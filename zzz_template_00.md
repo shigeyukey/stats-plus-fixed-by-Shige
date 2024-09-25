@@ -12,18 +12,17 @@
 
 [![banner_shigeyuki_Fixed](https://github.com/shigeyukey/Pokemanki-Gold/assets/124401518/8408c164-e95c-4e40-98c1-393b03e04bcb)](http://patreon.com/Shigeyuki)   <br>
 
-\>🟢
+\> Stats Plus allows you to include the Anki graphs inside of other screens. Deck Browser, Deck Overview, Congrats Page.
 
-This add-on is a fixed version of the "🟢" for Anki24+.<br>
-How to use it, please refer to the original add-on.<br>
-(If the original add-on has been updated to Anki 24+, this fork is not required.)
 
-**How to use (Original Add-ons)**
-* [🟢](🟢) / Author : [🟢](🟢)
+This add-on is a fixed version of the "Stats Plus" for Anki24+ (Fork). If the original add-on has been updated to Anki 24+, this fork is not required.
+
+**Original Add-on :**  [Stats Plus](https://ankiweb.net/shared/info/1009670238) / Author : [Henrik Giesel](https://github.com/hgiesel)
+
 <br>
 
  **Notes :** <br>
- * 🟢
+ * I added a workaround so perhaps it will work. The option has not been developed yet, clicks do not work (I will develop it later), large decks may take longer to load, added compatibility with review heatmap.
 
 <br>
 <br>
@@ -41,26 +40,22 @@ and so far I fixed 40+ broken add-ons [(Free) ]((https://new.reddit.com/r/Anki/c
      [![Patreon_banner_3_mini](https://github.com/shigeyukey/my_addons/blob/main/media_files/output_08.gif?raw=true)](https://youtu.be/t50NZagCsYk)<br>
 
 
-    [ Special Thanks  ] <br>
+    \[ Special Thanks  ] <br>
     Without the support of my Patrons I would never have been able to develop this.<br>
     Thank you very much!🙏<br>
-     [ Patrons ] *Arthur Bookstein, Haruka, Luis Alberto, Letona Quispe, Haley Schwarz, GP O'Byrne, Alba Grecia Suárez Recuay, Douglas Beeman, Renoaldo Costa Silva Junior, Felipe Dias, Tobias Klös, 07951350313540, Oleksandr Pashchenko, Corentin, Yitzhak Bar Geva, 龍星 武田, Muneeb Khan, Kurt Grabow, Gabriel Vinicio Guedes, Ansel Ng, Maik C., Ernest Chan, Ricardo Escobar, Daniel Valcárcel Málaga, Lerner Alcala, Daniel Kohl-Fink, Alex D, Blake, Hikori, Ketan Pal, Natalia Ostaszewska, Lily, Wa sup, Victor Evangelista, Tim, Knightwalker, as cam, Richard Fernandez, K Chuong Dang, Jason Liu, Hashem Hanaktah, Justin Skariah, Marli, Ella Schultz, Ali Abid, Siva Garapati, Nitin Chetla, hubert tuyishime, Kyle Mondlak, J, Dan S, Salman Majid, C, Maduka Gunasinghe, Marcin Skic, Andreas China, Lê Hoàng Phúc, anonymous, Jesse Asiedu, Chanho Youne, Dhenis Ferisco*<br>
+     \[ Patrons ] *Arthur Bookstein, Haruka, Luis Alberto, Letona Quispe, GP O'Byrne, Tobias Klös, 07951350313540, Douglas Beeman, Daniel Kohl-Fink, Gabriel Vinicio Guedes, Ernest Chan, Haley Schwarz, Ketan Pal, Kyle Mondlak, Lily, Tim, NamelessGO, Oleksandr Pashchenko, Alba Grecia Suárez Recuay, Kurt Grabow, Alex D, Jesse Asiedu, Renoaldo Costa Silva Junior, Felipe Dias, Fahim Shaik, Corentin, Yitzhak Bar Geva, 龍星 武田, Muneeb Khan, Hikori, Lê Hoàng Phúc, ElAnki, oiuhroiehg, Tae Lee, Ashok Rajpurohit, Tobias Günther, NoirHassassin, Jk, Jake Stucki, Cole Krueger, K, Ansel Ng, Victor Evangelista, Moritz Bluhm, Maik C., Ricardo Escobar, Daniel Valcárcel Málaga, Lerner Alcala, Jason Liu, Blake, Rogelio Rojas, Bunion Bandit, ifjymk, Aaron Buckley, KM, Melchior Schilling, Адріан Недбайло, 철수 박, Lisette Lerma, Abhi S, Robert Malone, On The Path Of Righteousness, Wei, Natalia Ostaszewska, Jordyn Kindness, Wa sup, Patrick Lee, Jacob Royce, Mattia Adami, Gregory Dance, Adrine, Carlos Garcia, cedox, Jonny MacEachern, 🌠, Tan Mun Ling, Martin Gerlach, Knightwalker, Lukas Hammerschmidt, HORUS ™, as cam, Richard Fernandez, K Chuong Dang, Hashem Hanaktah, Justin Skariah, Marli, Ella Schultz, Ali Abid, Siva Garapati, Nitin Chetla, hubert tuyishime, J, Dan S, Salman Majid, C, Maduka Gunasinghe, Marcin Skic, Andreas China, anonymous, Chanho Youne, Dhenis Ferisco, Wave, Foxy_null, WolfsForever, César Flores, Abufit Club, JB Eyring, Yazan Bouchi, Corey, mootcourt, Peter McCabe, Daniel Chien, D N, Mrudang, Yon Uni, Saad, Jared, Mohull Mehta, Xeno G, Theodore Addo, Robert Balisong, Tyler Schulte, Jonathan Contreras, Greg, Philly, Đen Trắng, Osasere Osula, Morgan Torres, Rae Hanna, Natalie, Michael Pekala, Fraol Feye, Cameron M, Omar Toro, Keeler Kime, Melvin Ezennia, Nailah Kahotep, Sean Voiers, Isabel Guan, Ken*<br>
 
 
 <br><br><br>
 
 
-#### [ 📥 How do I install this add-on? ]
-1. Copy and paste the add-on code ( `🟢` )  into Anki and you can install it.<br>
-    ( *Menu -> Tools -> Add-ons -> Get Add-ons -> Code [ add-on code ]* )
-2. When I develop bug fixes, create new features, or compatibility for New Anki,<br>
- I will notify you and you can install it.
-3. If you rate and recommend it, I will receive a notice and my tedious and sleepy<br>
- add-ons volunteer work will become more enjoyable and exciting. <br>
- (This add-on is developed by free volunteer work!👍️)
+#### \[ 📥 How do I install this add-on? ]
+1. Copy and paste the add-on code ( `146032826` )  into Anki and you can install it. ( *Menu -> Tools -> Add-ons -> Get Add-ons -> Code \[ add-on code ]* )
+2. When I develop bug fixes, create new features, or compatibility for New Anki, I will notify you and you can install it.
+3. Add-ons will be broken when the official Anki gets a major update, so if you like this add-on please support my volunteer development by rating, sharing, and donating.
 
 [Click here and please Rate this add-on, Thank you! :-) <br>
- ![Please rate this](https://raw.githubusercontent.com/shigeyukey/my_addons/main/media_files/rate_this.gif)](https://ankiweb.net/shared/review/🟢)
+ ![Please rate this](https://raw.githubusercontent.com/shigeyukey/my_addons/main/media_files/rate_this.gif)](https://ankiweb.net/shared/review/146032826)
 
 
 

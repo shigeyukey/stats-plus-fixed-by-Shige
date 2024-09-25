@@ -3,7 +3,7 @@ import zipfile
 from datetime import datetime
 
 
-ADDON_NAME ="🟢"
+ADDON_NAME ="Stats plus"
 
 
 def create_ankiaddon():
