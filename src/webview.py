@@ -21,4 +21,5 @@ def add_js_libraries(web_content:WebContent, context):
         )
 
 def init_webview():
-    webview_will_set_content.append(add_js_libraries)
+    pass
+    # webview_will_set_content.append(add_js_libraries)

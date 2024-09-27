@@ -8,7 +8,7 @@ from .congrats import init_congrats
 
 
 def init():
-    init_webview()
+    # init_webview()
     init_deckbrowser()
     init_overview()
     init_congrats()
