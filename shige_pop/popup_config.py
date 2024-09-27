@@ -10,7 +10,7 @@ from aqt.utils import openLink
 from .change_log import OLD_CHANGE_LOG #🟢
 
 CHANGE_LOG = "is_change_log"
-CHANGE_LOG_DAY = "2024-09-25b" #🟢
+CHANGE_LOG_DAY = "2024-09-28a" #🟢
 
 #🟢
 PATRONS_LIST = "Arthur Bookstein, Haruka, Luis Alberto, Letona Quispe, GP O'Byrne, Tobias Klös, 07951350313540, Douglas Beeman, Daniel Kohl-Fink, Gabriel Vinicio Guedes, Ernest Chan, Haley Schwarz, Ketan Pal, Kyle Mondlak, Lily, Tim, NamelessGO, Oleksandr Pashchenko, Alba Grecia Suárez Recuay, Kurt Grabow, Alex D, Jesse Asiedu, Renoaldo Costa Silva Junior, Felipe Dias, Fahim Shaik, Corentin, Yitzhak Bar Geva, 龍星 武田, Muneeb Khan, Hikori, Lê Hoàng Phúc, ElAnki, oiuhroiehg, Tae Lee, Ashok Rajpurohit, Tobias Günther, NoirHassassin, Jk, Jake Stucki, Cole Krueger, K, Ansel Ng, Victor Evangelista, Moritz Bluhm, Maik C., Ricardo Escobar, Daniel Valcárcel Málaga, Lerner Alcala, Jason Liu, Blake, Rogelio Rojas, Bunion Bandit, ifjymk, Aaron Buckley, KM, Melchior Schilling, Адріан Недбайло, 철수 박, Lisette Lerma, Abhi S, Robert Malone, On The Path Of Righteousness, Wei, Natalia Ostaszewska, Jordyn Kindness, Wa sup, Patrick Lee, Jacob Royce, Mattia Adami, Gregory Dance, Adrine, Carlos Garcia, cedox, Jonny MacEachern, 🌠, Tan Mun Ling, Martin Gerlach, Knightwalker, Lukas Hammerschmidt, HORUS ™, as cam, Richard Fernandez, K Chuong Dang, Hashem Hanaktah, Justin Skariah, Marli, Ella Schultz, Ali Abid, Siva Garapati, Nitin Chetla, hubert tuyishime, J, Dan S, Salman Majid, C, Maduka Gunasinghe, Marcin Skic, Andreas China, anonymous, Chanho Youne, Dhenis Ferisco, Wave, Foxy_null, WolfsForever, César Flores, Abufit Club, JB Eyring, Yazan Bouchi, Corey, mootcourt, Peter McCabe, Daniel Chien, D N, Mrudang, Yon Uni, Saad, Jared, Mohull Mehta, Xeno G, Theodore Addo, Robert Balisong, Tyler Schulte, Jonathan Contreras, Greg, Philly, Đen Trắng, Osasere Osula, Morgan Torres, Rae Hanna, Natalie, Michael Pekala, Fraol Feye, Cameron M, Omar Toro, Keeler Kime, Melvin Ezennia, Nailah Kahotep, Sean Voiers, Isabel Guan, Ken"
@@ -32,9 +32,9 @@ GITHUB_URL = "https://github.com/shigeyukey/my_addons/issues"
 
 # popup-size
 # mini-pupup
-SIZE_MINI_WIDTH = 449
-SIZE_MINI_HEIGHT = 396
-# Width: 449, Height: 396
+SIZE_MINI_WIDTH = 456
+SIZE_MINI_HEIGHT = 435
+#  456, Height: 435
 
 # Large-popup
 SIZE_BIG_WIDTH = 700
@@ -62,7 +62,10 @@ POPUP_PNG = r"popup_shige.png"
 
 #🟢
 NEW_FEATURE = """
-[1] Bug fixed
+[1] Bug fixed 2024-09-28
+    - Support for Anki24.10+
+
+[1] Bug fixed 2024-09-25
     - Support for Anki24+
     - Developed and added a workaround.
     - Added compatibility with review heatmap.
