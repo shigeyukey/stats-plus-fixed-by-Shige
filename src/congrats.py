@@ -22,7 +22,6 @@ from aqt import gui_hooks
 
 from .get_stats_html import get_html
 
-
 def add_graphs_to_congrats(webview: AnkiWebView):
     page = basename(webview.page().url().path())
     print(page)

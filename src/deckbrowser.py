@@ -20,7 +20,7 @@ from aqt import gui_hooks
 from aqt.deckbrowser import DeckBrowser, DeckBrowserContent
 from .get_stats_html import get_html
 
-from .utils import make_graph_js, add_browser_search_link
+from .utils import add_browser_search_link
 
 def add_graphs_to_deckbrowser(deckbrowser:DeckBrowser, content:"DeckBrowserContent"):
     content.stats += f"{get_html()}"

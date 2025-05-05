@@ -19,7 +19,7 @@ from anki.hooks import wrap
 from aqt import gui_hooks
 from aqt.overview import Overview, OverviewContent
 
-from .utils import make_graph_js, add_browser_search_link
+from .utils import add_browser_search_link
 from .get_stats_html import get_html
 
 def add_graphs_to_overview(self, content:OverviewContent):
