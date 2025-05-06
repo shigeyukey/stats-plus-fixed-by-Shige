@@ -7,7 +7,7 @@ from urllib.parse import urljoin
 is_permissions_fine = True
 
 # 250500
-if pointVersion() >= 250240:
+if pointVersion() >= 250210:
     from aqt import mediasrv
     from anki.hooks import wrap
 
